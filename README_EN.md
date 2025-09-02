@@ -266,17 +266,6 @@ Requirements:
 
 ---
 
-## 📖 Revision History
-
-- **1.0 (2020)** — Initial release.  
-- **1.0.5 (06/2022)** — Added HRV summaries.  
-- **1.0.9 (10/2023)** — Removed `userAccessToken`.  
-- **1.0.12 (09/2024)** — Added Skin Temperature endpoint.  
-- **1.1.1 (06/2025)** — Stress summaries extended with Body Battery values.  
-- **1.2.0 (06/2025)** — Production Review requirements updated.  
-
----
-
 ## 📬 Support
 
 - Email: [connect-support@developer.garmin.com](mailto:connect-support@developer.garmin.com)  
